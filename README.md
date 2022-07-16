@@ -65,8 +65,7 @@ In this study we are using two datasets of MRI Images :-
 
 - Negative Class → 5760 images
 
-> ![](vertopal_59ae7803efed4764a1f2a3f900ea1382/media/image21.png){width="5.510416666666667in"
-> height="5.583333333333333in"}
+> ![](README/media/image21.png)
 
 - Dataset_AD_stages - contains 2 partition train and test which
   > further contains 4 classes of images i.e. Very Mild Demented, Mild
@@ -92,8 +91,7 @@ In this study we are using two datasets of MRI Images :-
 - Moderate Demented → 12 images
 
 - Non Demented → 640
-  > images![](vertopal_59ae7803efed4764a1f2a3f900ea1382/media/image20.png){width="5.5625in"
-  > height="5.645833333333333in"}
+  > images![](README/media/image20.png)
 
 **Alzheimer's Disease Detection Model (Base Model)**
 
@@ -103,22 +101,18 @@ the person has Alzheimer's or not. This model is trained on the
 
 **Architecture of the Model -**
 
-![](vertopal_59ae7803efed4764a1f2a3f900ea1382/media/image19.png){width="6.9375in"
-height="6.25in"}
+![](README/media/image19.png)
 
 **model.summary() →**
 
-![](vertopal_59ae7803efed4764a1f2a3f900ea1382/media/image1.png){width="6.9375in"
-height="8.722222222222221in"}
+![](README/media/image1.png)
 
 **Model training →**
 
-![](vertopal_59ae7803efed4764a1f2a3f900ea1382/media/image7.png){width="6.9375in"
-height="4.625in"}
+![](README/media/image7.png)
 
-![](vertopal_59ae7803efed4764a1f2a3f900ea1382/media/image9.png){width="3.8542475940507437in"
-height="2.75in"}![](vertopal_59ae7803efed4764a1f2a3f900ea1382/media/image4.png){width="3.8865310586176727in"
-height="2.75in"}
+![](README/media/image9.png)
+![](README/media/image4.png)
 
 **Alzheimer's Disease Stages Detection Model (Final Model)**
 
@@ -131,28 +125,23 @@ section.
 
 **Architecture of the Model -**
 
-![](vertopal_59ae7803efed4764a1f2a3f900ea1382/media/image6.png){width="6.9375in"
-height="3.8991087051618547in"}
+![](README/media/image6.png)
 
-![](vertopal_59ae7803efed4764a1f2a3f900ea1382/media/image15.png){width="6.9375in"
-height="3.861111111111111in"}
+![](README/media/image15.png)
 
 The architecture of **feature1 Sequential layer** is the **same as the
 base model** **without the softmax output layer**.
 
 **model.summary() →**
 
-![](vertopal_59ae7803efed4764a1f2a3f900ea1382/media/image13.png){width="6.9375in"
-height="3.513888888888889in"}
+![](README/media/image13.png)
 
 **Model training →**
 
-![](vertopal_59ae7803efed4764a1f2a3f900ea1382/media/image10.png){width="6.9375in"
-height="4.736111111111111in"}
+![](README/media/image10.png)
 
-![](vertopal_59ae7803efed4764a1f2a3f900ea1382/media/image5.png){width="4.257812773403325in"
-height="2.838542213473316in"}![](vertopal_59ae7803efed4764a1f2a3f900ea1382/media/image18.png){width="4.286458880139983in"
-height="2.857638888888889in"}
+![](README/media/image5.png)
+![](README/media/image18.png)
 
 **Performance Metrics to determine the models performance**
 
@@ -160,8 +149,7 @@ height="2.857638888888889in"}
 
 - Confusion matrix -
 
-![](vertopal_59ae7803efed4764a1f2a3f900ea1382/media/image11.png){width="3.90625in"
-height="2.629760498687664in"}
+![](README/media/image11.png)
 
 > 0 → Negative
 >
@@ -169,15 +157,13 @@ height="2.629760498687664in"}
 
 - Classification Report -
 
-![](vertopal_59ae7803efed4764a1f2a3f900ea1382/media/image12.png){width="6.046875546806649in"
-height="2.142736220472441in"}
+![](README/media/image12.png)
 
 **Final Model →**
 
 - Confusion matrix -
 
-![](vertopal_59ae7803efed4764a1f2a3f900ea1382/media/image14.png){width="4.333333333333333in"
-height="3.0487128171478566in"}
+![](README/media/image14.png)
 
 > 0 → Mild Demented
 >
@@ -189,8 +175,7 @@ height="3.0487128171478566in"}
 
 - Classification Report -
 
-![](vertopal_59ae7803efed4764a1f2a3f900ea1382/media/image2.png){width="6.125in"
-height="2.715517279090114in"}
+![](README/media/image2.png)
 
 **References**
 
