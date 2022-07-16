@@ -57,13 +57,11 @@ In this study we are using two datasets of MRI Images :-
 - Dataset_AD - contains 2 classes of images, positive and negative
   > which depicts if the person has Alzhemer's Disease or not.
 
-```{=html}
-<!-- -->
 ```
-
 - Positive Class **→** 5932 images
 
 - Negative Class → 5760 images
+```
 
 > ![](README/media/image21.png)
 
