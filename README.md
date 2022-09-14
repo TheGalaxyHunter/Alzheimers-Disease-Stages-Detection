@@ -1,6 +1,6 @@
-**Abstract**
+**Detection of Stages of Alzheimers Disease**
 
-\[1\] An early and accurate diagnosis of Alzheimer\'s disease (AD) and
+An early and accurate diagnosis of Alzheimer\'s disease (AD) and
 it's stages is crucial for patient treatment and care, so that patients
 can take precautionary actions before irreversible brain damage develops
 since they are aware of the severity and progression risks.
@@ -18,7 +18,7 @@ disease (AD) and its prodromal stage, Mild Cognitive Impairment (MCI).
 
 **Alzheimer's Disease**
 
-\[2\] Alzheimer's Disease affects people in a numerous way. Patients
+Alzheimer's Disease affects people in a numerous way. Patients
 suffer from memory loss, confusion, difficulty in speaking, reading or
 writing. Eventually, they may forget about their life and could not
 recognize even their family members. They can forget how to perform
@@ -49,7 +49,7 @@ Demented
 
 **Alzheimer's Disease MRI Images Dataset**
 
-\[3\] In recent years, doctors are using brain Magnetic Resonance
+In recent years, doctors are using brain Magnetic Resonance
 Imaging (MRI) data for earlier detection of Alzheimer's Disease.
 
 In this study we are using two datasets of MRI Images :-
@@ -174,30 +174,3 @@ base model** **without the softmax output layer**.
 - Classification Report -
 
 ![](README/media/image2.png)
-
-**References**
-
-\[1\] S. Liu, S. Liu, W. Cai, S. Pujol, R. Kikinis, and D. Feng, "Early
-diagnosis of Alzheimer's disease with deep learning," 2014 IEEE 11th
-International Symposium on Biomedical Imaging (ISBI). IEEE, Apr-2014.
-
-\[2\] J. Islam and Y. Zhang, "A Novel Deep Learning Based Multi-class
-Classification Method for Alzheimer's Disease Detection Using Brain MRI
-Data," Brain Informatics. Springer International Publishing, pp.
-213--222, 2017.
-
-\[3\] R. Wolz, V. Julkunen, J. Koikkalainen, E. Niskanen, D. P. Zhang,
-D. Rueckert, H. Soininen, and J. Lötjönen, "Multi-Method Analysis of MRI
-Images in Early Diagnostics of Alzheimer's Disease," PLoS ONE, vol. 6,
-no. 10. Public Library of Science (PLoS), p. e25446, 13-Oct-2011.
-
-\[4\] F. Li, D. Cheng and M. Liu, \"Alzheimer\'s disease classification
-based on combination of multi-model convolutional networks,\" 2017 IEEE
-International Conference on Imaging Systems and Techniques (IST), 2017,
-pp. 1-5, doi: 10.1109/IST.2017.8261566.
-
-\[5\] P. M. Krishnammal and S. S. Raja, \"Convolutional Neural Network
-based Image Classification and Detection of Abnormalities in MRI Brain
-Images,\" 2019 International Conference on Communication and Signal
-Processing (ICCSP), 2019, pp. 0548-0553, doi:
-10.1109/ICCSP.2019.8697915.
